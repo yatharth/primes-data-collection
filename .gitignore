@@ -1,0 +1,12 @@
+.Trash-1000
+.DS_Store
+.ipynb_checkpoints
+.idea
+
+/novenv.fish
+/sync
+/analysis
+
+/src/*
+!/src/*.*
+!/src/*/
